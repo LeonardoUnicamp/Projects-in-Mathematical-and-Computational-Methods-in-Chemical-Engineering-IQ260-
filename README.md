@@ -1,5 +1,7 @@
 # Projects in Mathematical and Computational Methods in Chemical Engineering (IQ260-Unicamp)
 
+Repository link: https://github.com/LeonardoUnicamp/Projects-in-Mathematical-and-Computational-Methods-in-Chemical-Engineering-IQ260-
+
 ## First Project
 Project focused on solving a problem in the theme of “Numerical Differentiation and Integration,” with the development of a 4th-degree polynomial for numerical resolution in comparison with the Trapezoidal Rule, Simpson’s 1/3 and 3/8 methods, and their multiple applications.
 
@@ -19,6 +21,8 @@ Project focused on solving a problem in the theme of “Partial Differential Equ
 Project for a seminar presentation, with the resolution of Example 8.7, pages 293–294, from the book “Elements of Chemical Reaction Engineering” by H. Scott Fogler (6th edition), applying the 4th-order Runge–Kutta (RK4) method.
 
 # Projetos de Métodos Matemáticos e Computacionais para Engenharia Química (IQ260-Unicamp)
+
+Link do repositório: https://github.com/LeonardoUnicamp/Projects-in-Mathematical-and-Computational-Methods-in-Chemical-Engineering-IQ260-
 
 ## Primeiro Projeto
 Projeto focado em resolver uma problemática no tema de "Derivação e Integração Numérica", com o desenvolvimento de um polinômio de grau 4 para resolução numérica em comparação com os métodos de Regra do Trapézio, Simpson 1/3 e 3/8 e suas aplicações múltiplas.
